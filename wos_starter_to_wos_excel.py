@@ -31,7 +31,7 @@ Notes
 # ==========================
 
 # Default query (leave blank "" to force -q/--query)
-DEFAULT_USRQUERY = "AB=Pie"  # If empty, require -q/--query
+DEFAULT_USRQUERY = "AU=Stanwood"  # If empty, require -q/--query
 
 # Defaults that can be overridden by CLI / env
 NUMBER_OF_AUTHORS_DEFAULT = "ALL"  # First X authors + last author included; or "ALL" (with quotes) for no truncation
